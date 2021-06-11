@@ -26,8 +26,8 @@ function main() {
 	var canvas = document.querySelector('canvas');
 	var ctx = canvas.getContext('2d');
 	
-	var w = 900;
-	var h = 500;
+	var w = 450;
+	var h = 250;
 	
 	canvas.width = w;
 	canvas.height = h;
